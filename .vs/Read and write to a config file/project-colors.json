@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6c91c87-6e7e-42b4-af30-6ca3d75de42c": {
+      "ProjectGuid": "e6c91c87-6e7e-42b4-af30-6ca3d75de42c",
+      "DisplayName": "Read and write to a config file",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

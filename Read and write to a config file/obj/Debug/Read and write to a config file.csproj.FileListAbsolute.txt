@@ -1,0 +1,10 @@
+C:\Users\jjohn\Documents\VSC Projects\Read and write to a config file\Read and write to a config file\bin\Debug\Read and write to a config file.exe.config
+C:\Users\jjohn\Documents\VSC Projects\Read and write to a config file\Read and write to a config file\bin\Debug\Read and write to a config file.exe
+C:\Users\jjohn\Documents\VSC Projects\Read and write to a config file\Read and write to a config file\bin\Debug\Read and write to a config file.pdb
+C:\Users\jjohn\Documents\VSC Projects\Read and write to a config file\Read and write to a config file\obj\Debug\Read and write to a config file.csproj.AssemblyReference.cache
+C:\Users\jjohn\Documents\VSC Projects\Read and write to a config file\Read and write to a config file\obj\Debug\Read and write to a config file.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjohn\Documents\VSC Projects\Read and write to a config file\Read and write to a config file\obj\Debug\Read and write to a config file.csproj.CoreCompileInputs.cache
+C:\Users\jjohn\Documents\VSC Projects\Read and write to a config file\Read and write to a config file\obj\Debug\Read and write to a config file.exe
+C:\Users\jjohn\Documents\VSC Projects\Read and write to a config file\Read and write to a config file\obj\Debug\Read and write to a config file.pdb
+C:\Users\jjohn\Documents\VSC Projects\Read and write to a config file\Read and write to a config file\obj\Debug\Read_and_write_to_a_config_file.Properties.Resources.resources
+C:\Users\jjohn\Documents\VSC Projects\Read and write to a config file\Read and write to a config file\obj\Debug\Read and write to a config file.csproj.GenerateResource.cache
